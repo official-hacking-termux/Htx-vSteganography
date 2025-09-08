@@ -7,5 +7,6 @@ pkg upgrade -y
 
 pkg install git
 
-https://github.com/official-hacking-termux/Htx-vSteganography.git
-cd Htx-vSteganography
+ https://github.com/official-hacking-termux/Htx-vSteganography.git
+
+ cd Htx-vSteganographyphy
